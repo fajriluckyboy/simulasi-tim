@@ -34,3 +34,9 @@ chore: maintenance
 3. Commit dengan format yang benar
 4. Buat Pull Request
 5. Tunggu review & merge
+
+## 📊 Status Proyek
+
+Status     : Development
+Versi      : 0.9.0
+Kontributor: vajrieparadise
