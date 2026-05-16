@@ -34,3 +34,9 @@ chore: maintenance
 3. Commit dengan format yang benar
 4. Buat Pull Request
 5. Tunggu review & merge
+
+## 📊 Status Proyek
+
+Status : Aktif
+Versi  : 1.0.0
+Maintainer : fajriluckyboy
