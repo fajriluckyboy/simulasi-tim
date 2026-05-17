@@ -37,6 +37,7 @@ chore: maintenance
 
 ## 📊 Status Proyek
 
-Status : Aktif
-Versi  : 1.0.0
-Maintainer : fajriluckyboy
+Status      : Aktif
+Versi       : 1.0.0
+Maintainer  : fajriluckyboy
+Kontributor : vajrieparadise
